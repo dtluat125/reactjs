@@ -11,7 +11,7 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <div id ="App" data-bs-spy="scroll" data-bs-target="#navbar" data-bs-offset="0" className="scrollspy-example" tabIndex="0">
+    <div id ="App" >
       <Navbar/>
       <Header/>
       <About/>
